@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  project_id: one
+  project_name: MyString
+  project_img: MyString
+  project_desciption: MyString
+  votes: 1
+  estimation: 1.5
+  status: false
+
+two:
+  project_id: two
+  project_name: MyString
+  project_img: MyString
+  project_desciption: MyString
+  votes: 1
+  estimation: 1.5
+  status: false
