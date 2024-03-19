@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: one
+  username: MyString
+  secondname: MyString
+  lastname: MyString
+  dni: 1
+  profile_img: MyText
+  municipality: MyString
+  state: MyString
+  country: MyString
+  karma: 1
+  verify: false
+  banned: false
+
+two:
+  user_id: two
+  username: MyString
+  secondname: MyString
+  lastname: MyString
+  dni: 1
+  profile_img: MyText
+  municipality: MyString
+  state: MyString
+  country: MyString
+  karma: 1
+  verify: false
+  banned: false
