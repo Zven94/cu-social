@@ -1,3 +1,5 @@
 class Project < ApplicationRecord
-  belongs_to :project_id
+  validates :project_name, :project_img, :project_description, presence: true
+
+  belongs_to :user_id
 end
