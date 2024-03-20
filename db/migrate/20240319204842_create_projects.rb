@@ -5,9 +5,9 @@ class CreateProjects < ActiveRecord::Migration[7.1]
       t.string :project_name
       t.string :project_img
       t.string :project_desciption
-      t.integer :votes, default: 0
-      t.float :estimation, default: 0
-      t.boolean :status, default: false
+      t.integer :project_votes, default: 0
+      t.float :project_estimation, default: 0
+      t.boolean :project_status, default: false
 
       t.timestamps
     end
