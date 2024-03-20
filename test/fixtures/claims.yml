@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  claims_id: one
+  claims_name: MyString
+  claims_img: MyString
+  claims_desciption: MyString
+  claims_votes: 1
+  claims_status: false
+
+two:
+  claims_id: two
+  claims_name: MyString
+  claims_img: MyString
+  claims_desciption: MyString
+  claims_votes: 1
+  claims_status: false
